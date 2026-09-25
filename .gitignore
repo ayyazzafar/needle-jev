@@ -8,3 +8,4 @@ artifacts/
 public/needle-extension.zip
 *.log
 .DS_Store
+.vercel
